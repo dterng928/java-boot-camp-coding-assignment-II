@@ -20,7 +20,7 @@
 
 | Method | Url      | Description                             |
 |--------|----------|-----------------------------------------|
-| POST   | locaiton | ส่ง Latitude และ Longitude ให้ระบบ RCTS |
+| POST   | location | ส่ง Latitude และ Longitude ให้ระบบ RCTS |
 
 * Body
 
